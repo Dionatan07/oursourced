@@ -31,6 +31,6 @@ funcionário na mesma ordem em que foram digitados.
 - [x] Programação Orientada a Objetos;
 - [x] Lógica da programação;
 
-----------------------------------------------
+-----------------------------------------------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
